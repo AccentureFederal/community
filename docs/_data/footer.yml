@@ -74,4 +74,4 @@ contact:
   # Configuration for contact links for email, phone, etc...
   contact_links:
     - text: Interested in working with us?
-      href: hhttps://www.accenture.com/us-en/careers/local/federal-careers
+      href: https://www.accenture.com/us-en/careers/local/federal-careers
